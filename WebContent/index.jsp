@@ -13,12 +13,12 @@
 	<a href="/day12/jsp/action/forward.jsp">jsp动作标签-forward</a><br>
 	<a href="/day12/jsp/action/include.jsp">jsp动作标签-include</a><br>
 	
-	<hr>
+	<hr><!-- 
 	<hr>
 	<a href="/day12/jsp/el/demo1.jsp">el-获取简单数据</a><br>
 	<a href="/day12/jsp/el/demo2.jsp">el-获取复杂数据</a><br>
 	<a href="/day12/jsp/el/demo3.jsp">el-javabean 导航</a><br>
-	<a href="/day12/jsp/el/demo4.jsp">el-执行运算</a><br>
+	<a href="/day12/jsp/el/demo4.jsp">el-执行运算</a><br> -->
 	
 </body>
 </html>
